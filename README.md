@@ -1,5 +1,5 @@
 ### Hi there, I am Aakash 👋
-- 🔭 I’m currently working with SeeWe as a Software Engineer Intern ...
+- 🔭 I’m currently working with SeeWe as a Software Engineer Intern
 - 🌱 I’m currently learning BackEnd Web Development
 - 👯 I’m looking to collaborate on projects and startups
 - 🤔 I’m looking for help with getting opportunities
